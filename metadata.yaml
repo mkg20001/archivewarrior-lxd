@@ -1,0 +1,8 @@
+architecture: "x86_64"
+creation_date: $CREATION_DATE
+properties:
+    architecture: "x86_64"
+    description: "$FILENAME"
+    os: "archivewarrior"
+    release: "$RELEASE"
+
